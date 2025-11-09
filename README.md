@@ -13,7 +13,7 @@ This is a fully functional, accessible, and responsive Todo List app built with:
 
 - View list of todos with pagination
 - Filter todos by status (completed or pending)
-- Search todos by text
+- Chat functionality using Pusher.
 - View full details of each todo
 - Add, edit, and delete todos using modal dialogs
 - Accessible 404 page and error boundaries
