@@ -1,4 +1,4 @@
-// File: C:\my-todo-app-nextjs\src\app\todos\[id]\page.tsx
+// File: C:\Users\pc\Documents\GitHub\todo-app-nextjs\src\app\todos\[id]\page.tsx
 import * as entry from '../../../../../src/app/todos/[id]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

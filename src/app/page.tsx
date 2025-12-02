@@ -24,10 +24,7 @@ export default function Home() {
           The tasks are fetched from the DummyJson API.
         </div>
 
-        <div className="mt-4 text-sm md:text-lg font-medium">
-          <p>Created by Ozomma Chukwuemeka Andre</p>
-          <p>AltSchool ID: ALT/SOE/024/4767</p>
-        </div>
+        {/* `npm i baseline-browser-mapping@latest -D` */}
 
         <div className="mt-8">
           <Link
